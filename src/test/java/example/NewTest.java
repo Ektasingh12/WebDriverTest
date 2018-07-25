@@ -26,6 +26,7 @@ public class NewTest {
 			  String expectedTitle ="Demo Guru99 Page";
 			  String actualTitle = driver.getTitle();
 			  Assert.assertEquals(actualTitle, expectedTitle);
+			system.out.println("ekta");
 			  
 			  
 				
